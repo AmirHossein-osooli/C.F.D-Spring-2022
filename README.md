@@ -1,2 +1,2 @@
-# computational fluid dynamics project
-# Smester: Fall 2022
+# Computational Fluid Dynamics Project
+# Semester: Fall 2022
